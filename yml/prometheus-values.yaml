@@ -18,7 +18,7 @@ grafana:
   ##
   defaultDashboardsEnabled: true
 
-  adminPassword: FTA@CNCF0n@zure3
+  adminPassword: 
 
 
 ## Manages Prometheus and Alertmanager components
